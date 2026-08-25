@@ -81,21 +81,6 @@ Compares attrition across the following age groups:
 - Microsoft Excel / CSV
 - Data Analysis
 - Data Visualization
-
-## Project Structure
-
-HR-Analytics-Tableau-Dashboard/
-│
-├── README.md
-│
-├── dashboard/
-│   └── HR_Analytics_Dashboard.twbx
-│
-├── data/
-│   └── HR_Analytics_Data.csv
-│
-└── images/
-    └── HR_Analytics_Dashboard.png
-
+  
 ## Author 
 Nitika Nema 
