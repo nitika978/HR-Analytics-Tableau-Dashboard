@@ -9,7 +9,7 @@ The objective of this project is to provide meaningful insights into workforce t
 
 ## Dashboard Preview
 
-![HR Analytics Dashboard](images/HR_Analytics_Dashboard.png)
+![HR Analytics Dashboard](HR_Analytics_Dashboard.png)
 
 ## Key Metrics
 
