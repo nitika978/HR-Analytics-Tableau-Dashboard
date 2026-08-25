@@ -1,6 +1,4 @@
 # HR-Analytics-Tableau-Dashboard
-# HR Analytics Dashboard
-
 ## Project Overview
 
 This project presents an interactive **HR Analytics Dashboard** developed using **Tableau**. The dashboard analyzes employee data to identify patterns and trends related to employee attrition, demographics, job satisfaction, education, and age groups.
